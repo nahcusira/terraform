@@ -1,0 +1,15 @@
+
+{
+    "app_storage_module":{
+        "storage_account_name":"appstore4656656",
+        "container_name":"images",
+        "container_access":"blob",
+        "storage_account_exists":true,
+        "blobs_binary_enabled":true,
+        "blobs_binary":{
+            "Laptop.jpg":"./images/",
+            "Mobile.jpg":"./images/",
+            "Tab.jpg":"./images/"
+        }
+    }
+}

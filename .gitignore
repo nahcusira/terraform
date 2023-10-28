@@ -1,0 +1,21 @@
+windows_10_cmake_Release_graphviz-install-9.0.0-win64.exe
+terraform.exe
+.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.73.0/windows_amd64/terraform-provider-azurerm_v3.73.0_x5.exe
+.terraform/providers/registry.terraform.io/hashicorp/local/2.4.0/windows_amd64/terraform-provider-local_v2.4.0_x5.exe
+.terraform/providers/registry.terraform.io/hashicorp/null/3.2.1/windows_amd64/terraform-provider-null_v3.2.1_x5.exe
+.terraform/providers/registry.terraform.io/hashicorp/random/3.5.1/windows_amd64/terraform-provider-random_v3.5.1_x5.exe
+.terraform/providers/registry.terraform.io/hashicorp/template/2.2.0/windows_amd64/terraform-provider-template_v2.2.0_x4.exe
+.terraform/providers/registry.terraform.io/hashicorp/tls/4.0.4/windows_amd64/terraform-provider-tls_v4.0.4_x5.exe
+azure networking/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.73.0/windows_amd64/terraform-provider-azurerm_v3.73.0_x5.exe
+identity management/.terraform/providers/registry.terraform.io/hashicorp/azuread/2.43.0/windows_amd64/terraform-provider-azuread_v2.43.0_x5.exe
+identity management/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.73.0/windows_amd64/terraform-provider-azurerm_v3.73.0_x5.exe
+mini project/21. Reading data from json file/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.73.0/windows_amd64/terraform-provider-azurerm_v3.73.0_x5.exe
+more on features/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.73.0/windows_amd64/terraform-provider-azurerm_v3.73.0_x5.exe
+sql database/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.73.0/windows_amd64/terraform-provider-azurerm_v3.73.0_x5.exe
+sql database/.terraform/providers/registry.terraform.io/hashicorp/null/3.2.1/windows_amd64/terraform-provider-null_v3.2.1_x5.exe
+sql database/.terraform/providers/registry.terraform.io/hashicorp/random/3.5.1/windows_amd64/terraform-provider-random_v3.5.1_x5.exe
+sql database/20. Lab - Building a SQL Server Virtual Machine/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.10.0/windows_amd64/terraform-provider-azurerm_v3.10.0_x5.exe
+sql database/20. Lab - Building a SQL Server Virtual Machine/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.73.0/windows_amd64/terraform-provider-azurerm_v3.73.0_x5.exe
+sql database/21. Lab - Adding tables and data to a database/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.10.0/windows_amd64/terraform-provider-azurerm_v3.10.0_x5.exe
+sql database/21. Lab - Adding tables and data to a database/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.73.0/windows_amd64/terraform-provider-azurerm_v3.73.0_x5.exe
+sql database/21. Lab - Adding tables and data to a database/.terraform/providers/registry.terraform.io/hashicorp/random/3.5.1/windows_amd64/terraform-provider-random_v3.5.1_x5.exe
