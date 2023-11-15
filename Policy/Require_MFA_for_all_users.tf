@@ -12,7 +12,7 @@ resource "azuread_conditional_access_policy" "MFA_all_user" {
       excluded_platforms = []
     }
     users {
-      included_users = [data.azuread_user.emergency.object_id]
+      excluded_users = [data.azuread_user.emergency.object_id]
     }
   }
   grant_controls {
